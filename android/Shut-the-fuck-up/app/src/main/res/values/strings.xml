@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shut-the-fuck-up</string>
+    <string name="server_hint">服务器地址</string>
+    <!-- 部署前改成你的控制服务器，例如 http://192.168.1.100:8000 -->
+    <string name="server_default">http://YOUR_SERVER_IP:8000</string>
+    <string name="status_label">当前状态</string>
+    <string name="status_stop">已停止</string>
+    <string name="status_start">运行中</string>
+    <string name="status_unknown">未知</string>
+    <string name="interval_label">联网时长（秒）</string>
+    <string name="btn_start">开启</string>
+    <string name="btn_stop">关闭</string>
+    <string name="btn_apply_interval">应用间隔</string>
+    <string name="btn_refresh">刷新状态</string>
+    <string name="toast_start_ok">已发送开启指令</string>
+    <string name="toast_stop_ok">已发送关闭指令</string>
+    <string name="toast_interval_ok">间隔已更新</string>
+    <string name="toast_error">操作失败，请检查网络和服务器</string>
+</resources>

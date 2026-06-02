@@ -1,0 +1,49 @@
+# Visual Studio / MSVC
+.vs/
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+ipch/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.iobj
+*.ipdb
+*.exe
+*.dll
+*.lib
+*.exp
+vcpkg.applocal.log
+
+# Android
+android/**/build/
+android/**/.gradle/
+android/**/local.properties
+android/**/.idea/
+*.apk
+*.aab
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

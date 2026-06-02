@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_start">#2E7D32</color>
+    <color name="red_stop">#C62828</color>
+    <color name="bg_page">#F5F5F5</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="status_start">#1B5E20</color>
+    <color name="status_stop">#B71C1C</color>
+</resources>
